@@ -1,0 +1,16 @@
+########
+# Sample 7 axis
+# Labels are here just for memory
+# 360/7 = 51
+# 51/2 = 25
+# 25 76 127 178 229 280 331
+########
+"Label01" 25 2
+"Label02" 76 1
+"Label03" 127 3
+"Label04" 178 2
+"Label05" 229 4
+"Label06" 280 3
+"Label07" 331 1
+"Label01" 25 2
+
